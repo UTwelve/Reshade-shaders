@@ -1,1 +1,1 @@
-﻿FFXIVGUILayer.fx - is a  hack UI mask，for FFXIV.    Not necessarily useful for other games，need try
+﻿HackUImask.fx - is a hack UI mask，for FFXIV.    Not necessarily useful for other games，need try
