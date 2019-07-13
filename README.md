@@ -1,0 +1,1 @@
+﻿FFXIVGUILayer.fx - is a  hack UI mask，Not necessarily useful.
